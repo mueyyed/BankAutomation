@@ -1,0 +1,12 @@
+/// this file is not used
+// this is only to test the information 
+
+
+Ahmad:Fares:Ahmad@gmail.com:1234:3000
+Elif:Gulen:Elif@gmail.com:4321:2000
+Yilmaz:Shosh:Yilmaz@gmailcom:2341:5000
+
+Hasn:samer:Hasan@gmail.com:3458 
+Basem:Rabi:Basem@gmail.com:2222
+
+Hadi:Aref:Hadi@gmail.com:5555.0
